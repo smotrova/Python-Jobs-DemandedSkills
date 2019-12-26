@@ -3,9 +3,9 @@
 _"Python, R or SQL?"_
 
 Data collected from Indeed web site contains job advertesments posted in the last quarter 2019 in Germany for data professionals.
-An analysis of job descriptions shows
+An analysis of job descriptions shows that
 
-> * A majority of job advertisements in Berlin are in English, while in the rest of country German is more frequently used for job descriptions.
+> * a majority of job advertisements in Berlin are in English, while in the rest of country German is more frequently used for job descriptions.
 
 > * Berlin is a top city to find new opportunities for data professionals.
 
