@@ -180,7 +180,7 @@ for URL in URLs:
                                                         description]
 
 # Save data to file
-job_positions.to_csv("./Results/jobs" +\
+job_positions.to_csv("./results/jobs" +\
                      '_' + str(date.today().year) +\
                      '_' + str(date.today().month) + "_de.csv", index=False)
 
