@@ -2,6 +2,8 @@
 
 _"Python, R or SQL?"_
 
+![]('./results/jobsposts_wordcloud_skills.png')
+
 Web scraping
 
 * getting job posts data from Indeed
