@@ -7,10 +7,10 @@ An analysis of job descriptions shows that
 
 > * a majority of job advertisements in Berlin are in English, while in the rest of country German is more frequently used for job descriptions.
 
-> * Berlin is a top city to find new opportunities for data professionals.
+> * Berlin is a top city to find new opportunities for data professionals
 
-> * Python and SQL are the most commonly demanded skills for Data Science, Data Engineer and Data Analyst role types.
+> * Python and SQL are the most commonly demanded skills for Data Science, Data Engineer and Data Analyst role types
 
-> * SQL, Tableau and Python are most demand skills for for a BI Analyst role.
+> * SQL, Tableau and Python are most demand skills for for a BI Analyst role
 
-> * SQL, Python and R are most demand for a Data Analyst role.
+> * SQL, Python and R are most demand for a Data Analyst role
