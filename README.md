@@ -1,6 +1,6 @@
-# Analysis of Demanded Skills for Data Professionals
+![](https://github.com/smotrova/Python-Jobs-DemandedSkills/blob/master/figs/jobsposts_wordcloud_icon.png) # Analysis of Demanded Skills for Data Professionals
 
-![](https://github.com/smotrova/Python-Jobs-DemandedSkills/blob/master/figs/jobsposts_wordcloud_icon.png) _"Python, R or SQL?"_
+_"Python, R or SQL?"_
 
 Web scraping
 
