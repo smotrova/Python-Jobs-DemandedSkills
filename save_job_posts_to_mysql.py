@@ -10,15 +10,15 @@ import pandas as pd
 # Required fields to connect to DB
 # =============================================================================
 host_name = 'remotemysql.com'
-dbname = '3XCoJNZJpR'
-port = '3306'
+dbname = 'dbname'
+port = '0000'
 user_name = 'username' #enter username
 pwd = 'pasword' #enter your database password
 
 # =============================================================================
 # Load data, replase NAs with ' '
 # =============================================================================
-job_positions = pd.read_csv('./Results/jobs_2019_12_all_de.csv')
+job_positions = pd.read_csv('./results/jobs_2019_12_de.csv')
 job_positions.fillna(' ', inplace=True)
 
 # =============================================================================
