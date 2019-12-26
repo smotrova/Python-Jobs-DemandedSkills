@@ -2,7 +2,7 @@
 
 _"Python, R or SQL?"_
 
-![]('./results/jobsposts_wordcloud_skills.png')
+![https://github.com/smotrova/Python-Jobs-DemandedSkills/blob/master/figs/jobsposts_wordcloud_icon.png]
 
 Web scraping
 
