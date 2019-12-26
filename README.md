@@ -2,20 +2,15 @@
 
 _"Python, R or SQL?"_
 
-Web scraping
+Data collected from Indeed web site contains job advertesments posted in the last quarter 2019 in Germany for data professionals.
+An analysis of job descriptions shows
 
-* getting job posts data from Indeed
-    
-* the data collected contains job title, company, location, full job description
-    
-* the dataset includes job posts in data analysis domain in Germany for the last quarter 2019
-    
-Text analytics
+> * A majority of job advertisements in Berlin are in English, while in the rest of country German is more frequently used for job descriptions.
 
-* statistics for job adverts
+> * Berlin is a top city to find new opportunities for data professionals.
 
-* text cleaning
-    
-* bag-of-words model
-    
-* binary document-term matrix
+> * Python and SQL are the most commonly demanded skills for Data Science, Data Engineer and Data Analyst role types.
+
+> * SQL, Tableau and Python are most demand skills for for a BI Analyst role.
+
+> * SQL, Python and R are most demand for a Data Analyst role.
