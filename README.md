@@ -6,8 +6,12 @@ Data collected from Indeed web site contains job advertesments posted in the las
 An analysis of job descriptions shows that
 
  * a majority of job advertisements in Berlin are in English, while in the rest of country German is more frequently used for job descriptions.
+ 
+ ![](https://github.com/smotrova/Python-Jobs-DemandedSkills/blob/master/figs/description_lang.png)
 
  * Berlin is a top city to find new opportunities for data professionals
+ 
+ ![](https://github.com/smotrova/Python-Jobs-DemandedSkills/blob/master/figs/companies_cities.png)
 
  * Python and SQL are the most commonly demanded skills for Data Science, Data Engineer and Data Analyst role types
 
