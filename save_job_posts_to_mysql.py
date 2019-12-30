@@ -16,7 +16,7 @@ user_name = 'username' #enter username
 pwd = 'pasword' #enter your database password
 
 # =============================================================================
-# Load data, replase NAs with ' '
+# Load data, replace NAs with ' '
 # =============================================================================
 job_positions = pd.read_csv('./results/jobs_2019_12_de.csv')
 job_positions.fillna(' ', inplace=True)
